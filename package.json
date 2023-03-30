@@ -1,0 +1,20 @@
+{
+  "name": "building-netflix-clone",
+  "version": "1.0.0",
+  "description": "This project is a clone of the popular streaming platform Netflix, built using modern web development technologies. The goal of this project is to showcase how to build a responsive and dynamic web application that mimics the look and feel of Netflix.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AMENAB12/Building-Netflix-Clone.git"
+  },
+  "author": "Abenezer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AMENAB12/Building-Netflix-Clone/issues"
+  },
+  "homepage": "https://github.com/AMENAB12/Building-Netflix-Clone#readme"
+}
